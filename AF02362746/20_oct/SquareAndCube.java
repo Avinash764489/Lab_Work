@@ -1,4 +1,4 @@
-//WAP to make a calculator
+//WAP to find square, cube and check odd or even
 //import Scanner class
 import java.util.Scanner;
 //create a class
