@@ -10,6 +10,8 @@ class ShopingBillCalculation{
 		System.out.println("Total amount :- "+total);
 		if(total>=2000)
 			discount(total);
+		else
+			System.out.println("Sorry you are not eligible for discount");
 	}
 	//create discount method to calculate total amount with discount
 	static void discount(int total){
