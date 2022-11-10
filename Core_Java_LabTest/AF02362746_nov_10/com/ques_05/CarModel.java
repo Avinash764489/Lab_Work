@@ -1,3 +1,5 @@
+//WAP in java to make an constant care name and its model  
+
 package com.ques_05;
 
 

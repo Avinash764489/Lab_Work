@@ -1,3 +1,4 @@
+//WAP in java to find common elements of 2 different array
 package com.ques_02;
 
 //import Scanner class

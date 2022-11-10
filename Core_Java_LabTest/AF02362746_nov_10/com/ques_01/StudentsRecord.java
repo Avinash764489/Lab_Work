@@ -1,3 +1,5 @@
+//WAP in java to create a record of students using array in java
+
 package com.ques_01;
 //import Scanner class
 import java.util.Scanner;

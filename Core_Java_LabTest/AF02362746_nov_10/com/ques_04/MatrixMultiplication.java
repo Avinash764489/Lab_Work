@@ -1,3 +1,5 @@
+//WAP in java to multiply two matrix 
+
 package com.ques_04;
 
 //import Scanner class

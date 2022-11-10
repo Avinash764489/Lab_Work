@@ -1,3 +1,5 @@
+//WAP in java to get student marks and print according to ranks along with marks
+
 package com.ques_03;
 
 import java.util.Arrays;
