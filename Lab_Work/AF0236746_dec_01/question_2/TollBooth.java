@@ -82,14 +82,14 @@ public class TollBooth {
 	//declare main method
 	public static void main(String arg[]) {
 		
-		//declare class instances
+		//declare class instance
 		vehicles1 v1 = new vehicles1();
 		vehicles2 v2 = new vehicles2();
 		vehicles3 v3 = new vehicles3();
 		vehicles4 v4 = new vehicles4();
 		vehicles5 v5 = new vehicles5();
 		
-		//start thread
+		//thread start
 		v1.start();
 		v2.start();
 		v3.start();
