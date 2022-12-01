@@ -1,0 +1,10 @@
+1) David is a Java developer at MacroBusiness Inc. He has been assigned a task to develop the 
+player vs. player Tic Tac Toe application. In this application, he needs to implement the 
+following functionalities:
+The players should be presented with a menu, which has the options to play the game, view the 
+instructions, view a player’s win percentage, and exit.
+Every time, when the players play the game, their score should be updated in a text file. 
+In addition, if a player decides to view the win percentage, and exit.
+Every time, when the players play the game, their score should be updated in a text file. 
+In addition, if a player decides to view the win percentage, it should be displayed. 
+Help David to achieve this task.
